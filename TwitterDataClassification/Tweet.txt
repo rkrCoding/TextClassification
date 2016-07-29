@@ -1,0 +1,298 @@
+' When give you ' others
+' You know you are an engineer when you can't understand what you can't understand. ' heavy study load
+' You know you are an engineer when you can't understand what you can't understand. ',lack Of social engagement
+' You know you are an engineer when you can't understand what you can't understand. ' negative emotion
+' You know you are an engineer when you can't understand what you can't understand. ' diversity issues
+' When you start using semicolons in the end of your general english sentences, you know you are a computer engineer. ' heavy study load
+' When you start using semicolons in the end of your general english sentences, you know you are a computer engineer. ',lack Of social engagement
+' When you start using semicolons in the end of your general english sentences, you know you are a computer engineer. ' negative emotion
+' When you start using semicolons in the end of your general english sentences, you know you are a computer engineer. ' diversity issues
+' You know you are an engineer when you're busy finding solutions to things that aren't even a problem. ' heavy study load
+' You know you are an engineer when you're busy finding solutions to things that aren't even a problem. ',lack Of social engagement
+' You know you are an engineer when you're busy finding solutions to things that aren't even a problem. ' negative emotion
+' You know you are an engineer when you're busy finding solutions to things that aren't even a problem. ' diversity issues
+' Ya saben, uno no puede tener muchos amigos ni�os porque mis compa�eros del trabajo me hacen bullying ' others
+' Closing in on the last couple of weeks of studying for the extreme exhaustion has set in ' heavy study load
+' Closing in on the last couple of weeks of studying for the extreme exhaustion has set in ',lack Of social engagement
+' Closing in on the last couple of weeks of studying for the extreme exhaustion has set in ' negative emotion
+' Closing in on the last couple of weeks of studying for the extreme exhaustion has set in ' sleep problems
+' Ice cream cake icing delamination. ' others
+' Me too ' others
+' How to bullshit your way through engineering projects 101 ' heavy study load
+' How to bullshit your way through engineering projects 101 ',lack Of social engagement
+' How to bullshit your way through engineering projects 101 ' negative emotion
+' How to bullshit your way through engineering projects 101 ' diversity issues
+' Falling asleep in the library, lecture, and study group. But never your bed. ' heavy study load
+' Falling asleep in the library, lecture, and study group. But never your bed. ',lack Of social engagement
+' Falling asleep in the library, lecture, and study group. But never your bed. ' negative emotion
+' Falling asleep in the library, lecture, and study group. But never your bed. ' sleep problems
+' All the yes! ' others
+' "You've got what it takes, but it will take everything you've got" ' others
+' Over simplifying the problem and over complicating the solution ' heavy study load
+' not ready in summer class ? Bakit kasi in'adjust? ? ',lack Of social engagement
+' not ready in summer class ? Bakit kasi in'adjust? ? ' negative emotion
+' not ready in summer class ? Bakit kasi in'adjust? ? ' sleep problems
+' not ready in summer class ? Bakit kasi in'adjust? ? ' diversity issues
+' Alam mo yung talagang masakit? Yung magbibigay ng napakadaming Problem set sa calc sabay dalawang araw lang ang palugit ' sleep problems
+' This is me almost every day. ' heavy study load
+' This is me almost every day. ' negative emotion
+' This is me almost every day. ' sleep problems
+' This is me almost every day. ' heavy study load
+' This is me almost every day. ' negative emotion
+' This is me almost every day. ' sleep problems
+' Do engineering majors actually graduate, or do they just give up and leave? ' heavy study load
+' Do engineering majors actually graduate, or do they just give up and leave? ',lack Of social engagement
+' Do engineering majors actually graduate, or do they just give up and leave? ' negative emotion
+' Do engineering majors actually graduate, or do they just give up and leave? ' diversity issues
+' Pros of being an engineer: final projects due in almost every class at the same time. Or is that a con? ' heavy study load
+' Pros of being an engineer: final projects due in almost every class at the same time. Or is that a con? ',lack Of social engagement
+' Pros of being an engineer: final projects due in almost every class at the same time. Or is that a con? ' negative emotion
+' Pros of being an engineer: final projects due in almost every class at the same time. Or is that a con? ' sleep problems
+' Pros of being an engineer: final projects due in almost every class at the same time. Or is that a con? ' diversity issues
+' My kind of break up (when the semester ends) ',lack Of social engagement
+' inaantok pa ko. gusto ko pang matulog ulit. kaso may pasok pa. tara ligo!!! ' others
+' Seamos serios: cab�a, pero no hab�a flotabilidad suficiente para los dos ' others
+' - Hey Charlie, �qu� onda, c�mo te va en la maestr�a? ' others
+' - Me est�n VIOLANDO. ' others
+' ' others
+' Algeb <|3 ' others
+' Summer na summer MATH padin T_T ' others
+' Wala akong bakasyon. Huhuhu ' others
+' me too ? ' others
+' Me, all week: ' heavy study load
+' Me, all week: ' negative emotion
+' Me, all week: ' sleep problems
+' ' others
+' ' others
+' Daydreaming about getting hospitalized so you can take a month off from life then stressing about how much it'll cost.� ' others
+' dost dost naa raha... ' others
+' ' others
+' bagsak ako sa drawing . ' others
+' Join our Solve real Win cash + ' others
+' Klase napud! Another sleepless nights and bloody war with the numbers and equations. ? ' sleep problems
+' ? ' others
+' Haha, ' others
+' You know you're an engineer when your dad goes to Home Depot and you ask him to pick you up some calipers ' heavy study load
+' You know you're an engineer when your dad goes to Home Depot and you ask him to pick you up some calipers ',lack Of social engagement
+' You know you're an engineer when your dad goes to Home Depot and you ask him to pick you up some calipers ' negative emotion
+' You know you're an engineer when your dad goes to Home Depot and you ask him to pick you up some calipers ' diversity issues
+' Haha, ' others
+' Domingo de hacer tarea inesperada. ' others
+' Esta presentacion comienza con electromagnetismo y termina en bombas de infusion. ' others
+' "What do you do for fun?" ' others
+' As an engineering major, do I even have time for fun? ' heavy study load
+' As an engineering major, do I even have time for fun? ',lack Of social engagement
+' As an engineering major, do I even have time for fun? ' negative emotion
+' As an engineering major, do I even have time for fun? ' sleep problems
+' As an engineering major, do I even have time for fun? ' diversity issues
+' I thought senior year was supposed to be fun... on the brink of crying hahaha ' others
+' I thought senior year was supposed to be fun... on the brink of crying hahaha ' others
+' Spent 7 hours in a windowless room in a dark building on a Sunday simulating the production of aromatics. ' heavy study load
+' Spent 7 hours in a windowless room in a dark building on a Sunday simulating the production of aromatics. ' negative emotion
+' Spent 7 hours in a windowless room in a dark building on a Sunday simulating the production of aromatics. ' sleep problems
+' ' others
+' One thing they never taught us in our Engineering degree was the importance of people mgmt & social aspects of the job. ',lack Of social engagement
+' One thing they never taught us in our Engineering degree was the importance of people mgmt & social aspects of the job. ' diversity issues
+' when the answer is 171 and you get a 117 and you are not sure if it's a typo in the book or they are ju� ' others
+' I passed on two parties this weekend to practice derivatives & work on loops. ? ' heavy study load
+' I passed on two parties this weekend to practice derivatives & work on loops. ? ',lack Of social engagement
+' I passed on two parties this weekend to practice derivatives & work on loops. ? ' negative emotion
+' I passed on two parties this weekend to practice derivatives & work on loops. ? ' sleep problems
+' when the answer is 171 and you get a 117 and you are not sure if it's a typo in the book or they are just snaking you? ' others
+' may pasok pa bukas. Good night ? ' sleep problems
+' ' others
+' hashtag engineeringproblems ?? ' heavy study load
+' hashtag engineeringproblems ?? ',lack Of social engagement
+' hashtag engineeringproblems ?? ' negative emotion
+' hashtag engineeringproblems ?? ' diversity issues
+' When is on but you remember you need to study. ' heavy study load
+' When is on but you remember you need to study. ',lack Of social engagement
+' When is on but you remember you need to study. ' negative emotion
+' When is on but you remember you need to study. ' sleep problems
+' I just want to get at least a C in calc 2 but apparently I'm asking for too much. ' others
+' Pero dahil Engineering, hindi pa ito ang last year namin ' others
+' When is on but you remember you need to study. ' heavy study load
+' When is on but you remember you need to study. ',lack Of social engagement
+' When is on but you remember you need to study. ' negative emotion
+' When is on but you remember you need to study. ' sleep problems
+' When is on but you remember you need to study. ' heavy study load
+' When is on but you remember you need to study. ',lack Of social engagement
+' When is on but you remember you need to study. ' negative emotion
+' When is on but you remember you need to study. ' sleep problems
+' Chemistry is taking over my life ? ' others
+' I did my best but I guess my best wasn't good enough ??? ' others
+' Over simplifying the problem and over complicating the solution ' heavy study load
+' ? by chotu_riyaz ' others
+' My classes are 95% men. The odds are good, but the goods are so odd. ',lack Of social engagement
+' My classes are 95% men. The odds are good, but the goods are so odd. ' negative emotion
+' My classes are 95% men. The odds are good, but the goods are so odd. ' sleep problems
+' My classes are 95% men. The odds are good, but the goods are so odd. ' diversity issues
+' Fixed one problem to discover another but it's much easier to solve. ' heavy study load
+' Do engineering majors actually graduate, or do they just give up and leave? ' heavy study load
+' Do engineering majors actually graduate, or do they just give up and leave? ',lack Of social engagement
+' Do engineering majors actually graduate, or do they just give up and leave? ' negative emotion
+' Do engineering majors actually graduate, or do they just give up and leave? ' diversity issues
+' I gets better! ' others
+' Do engineering majors actually graduate, or do they just give up and leave? ' heavy study load
+' Do engineering majors actually graduate, or do they just give up and leave? ',lack Of social engagement
+' Do engineering majors actually graduate, or do they just give up and leave? ' negative emotion
+' Do engineering majors actually graduate, or do they just give up and leave? ' diversity issues
+' Fixed one problem to discover another but it's much easier to solve. ' heavy study load
+' Fixed one problem to discover another but it's much easier to solve. ' heavy study load
+' Fixed one problem to discover another but it's much easier to solve. ' heavy study load
+' When you think your answer is wrong because it just makes too much sense ' others
+' I basically live under a rock. ' others
+' Today also illustrates the value of a good faculty advisor. You�re fucked without proper guidance. ' others
+' Ugh I feel terrible. Ditching a friend I haven't seen in 6 years tomorrow coz CSO is life. Haysss ? ' others
+' Watching grad presentations is a great idea, if only to learn from the mistakes made during the Q&A portion. Jesus� ' diversity issues
+' ' others
+' when boss yells at you for being on your phone at work but it's your graphing calculator ' heavy study load
+' when boss yells at you for being on your phone at work but it's your graphing calculator ',lack Of social engagement
+' when boss yells at you for being on your phone at work but it's your graphing calculator ' sleep problems
+' ??? ' others
+' Kapwa engineering students lang talaga makakaintindi samin. Hahaha! ' heavy study load
+' Kapwa engineering students lang talaga makakaintindi samin. Hahaha! ',lack Of social engagement
+' Kapwa engineering students lang talaga makakaintindi samin. Hahaha! ' negative emotion
+' Kapwa engineering students lang talaga makakaintindi samin. Hahaha! ' diversity issues
+' I can't get excited that it's Friday since I won't have a day off until next Friday ? ' heavy study load
+' I can't get excited that it's Friday since I won't have a day off until next Friday ? ',lack Of social engagement
+' I can't get excited that it's Friday since I won't have a day off until next Friday ? ' negative emotion
+' I can't get excited that it's Friday since I won't have a day off until next Friday ? ' sleep problems
+' I can't get excited that it's Friday since I won't have a day off until next Friday ? ' heavy study load
+' I can't get excited that it's Friday since I won't have a day off until next Friday ? ',lack Of social engagement
+' I can't get excited that it's Friday since I won't have a day off until next Friday ? ' negative emotion
+' I can't get excited that it's Friday since I won't have a day off until next Friday ? ' sleep problems
+' yung kapatid at nanay mo nghahanda na papunta ng ibang basa tapos ikaw hindi makakasama kc may summer.. ang sakit!!! ? ' others
+' The Best Days I Write With High Ratio The Day I Have Exams Tomorrow ' others
+' When engineers are done with a long, successful week and the weekend finally arrives ' heavy study load
+' When engineers are done with a long, successful week and the weekend finally arrives ',lack Of social engagement
+' When engineers are done with a long, successful week and the weekend finally arrives ' negative emotion
+' When engineers are done with a long, successful week and the weekend finally arrives ' sleep problems
+' When engineers are done with a long, successful week and the weekend finally arrives ' diversity issues
+' We can relate! ' others
+' When the prof pronounces "circuit" as "cir-queet" ? ' others
+' Klasi na sa lunes sa summer tapos kami mag exam pa! ??? ' heavy study load
+' Klasi na sa lunes sa summer tapos kami mag exam pa! ??? ',lack Of social engagement
+' Klasi na sa lunes sa summer tapos kami mag exam pa! ??? ' negative emotion
+' Klasi na sa lunes sa summer tapos kami mag exam pa! ??? ' sleep problems
+'' others
+' ' others
+' ' others
+' When ur prof gives u an address and ur hard hat and says go to chalmette to run a distillation tower w/no direction ' negative emotion
+' Hello warning status. Mas okay na to kesa may bagsak. Hahaha. Kainis bakit kasi 2.25 yung required ??? ' others
+' - ' others
+' pag wala ka na maisip na isasagot, tulugan mo nalang exam mo. ' heavy study load
+' pag wala ka na maisip na isasagot, tulugan mo nalang exam mo. ',lack Of social engagement
+' pag wala ka na maisip na isasagot, tulugan mo nalang exam mo. ' negative emotion
+' pag wala ka na maisip na isasagot, tulugan mo nalang exam mo. ' sleep problems
+' My kind of break up (when the semester ends) ',lack Of social engagement
+' Australian construction sector experiences slump whilst Germany's thrives: ' others
+' Solid Mensuration! ?? ' others
+' ' others
+' 3D modeling a functional metal lathe will be the death of me. 16+ hours in and not even close to being partially done ' heavy study load
+' 3D modeling a functional metal lathe will be the death of me. 16+ hours in and not even close to being partially done ' negative emotion
+' 3D modeling a functional metal lathe will be the death of me. 16+ hours in and not even close to being partially done ' sleep problems
+' 3D modeling a functional metal lathe will be the death of me. 16+ hours in and not even close to being partially done ' heavy study load
+' 3D modeling a functional metal lathe will be the death of me. 16+ hours in and not even close to being partially done ' negative emotion
+' 3D modeling a functional metal lathe will be the death of me. 16+ hours in and not even close to being partially done ' sleep problems
+' Sayang ang paghihirap namin gumawa ng plate sayo tapos di mo lang isasali sa pag grade mo! ' others
+' bc I can and my game struggles cc: ',lack Of social engagement
+' That moment when you forget how to compute a fairly long but simple integral Bc you're not used to easy integration. ' heavy study load
+' That moment when you forget how to compute a fairly long but simple integral Bc you're not used to easy integration. ' sleep problems
+' My physics class is a complete sausage fest ',lack Of social engagement
+' My physics class is a complete sausage fest ' negative emotion
+' My physics class is a complete sausage fest ' sleep problems
+' My physics class is a complete sausage fest ' diversity issues
+' Finally finished the take home exam I've been delaying forever. My mind feels free ' heavy study load
+' Finally finished the take home exam I've been delaying forever. My mind feels free ',lack Of social engagement
+' Finally finished the take home exam I've been delaying forever. My mind feels free ' negative emotion
+' Finally finished the take home exam I've been delaying forever. My mind feels free ' sleep problems
+' ' others
+' I will survive ' others
+' Over simplifying the problem and over complicating the solution ' heavy study load
+' What is a weekend? ' heavy study load
+' What is a weekend? ',lack Of social engagement
+' What is a weekend? ' negative emotion
+' What is a weekend? ' sleep problems
+' ' others
+' ' others
+' I did my best but I guess my best wasn't good enough ??? ' others
+' I did my best but I guess my best wasn't good enough ??? ' others
+' nakauwi na rin sa wakas.. nakakapanghina tong araw na to ? ' others
+' nung pasukan: daming plates! ' others
+' ngayong bakasyon: daming plato! ' others
+'' others
+' ' others
+' Me leaving the library this morning for the first time since Monday. ' heavy study load
+' Me leaving the library this morning for the first time since Monday. ' negative emotion
+' Me leaving the library this morning for the first time since Monday. ' sleep problems
+' Me leaving the library this morning for the first time since Monday. ' heavy study load
+' Me leaving the library this morning for the first time since Monday. ' negative emotion
+' Me leaving the library this morning for the first time since Monday. ' sleep problems
+' nung pasukan: daming plates! ' others
+' ngayong bakasyon: daming plato! ' others
+'' others
+' ' others
+' When the prof pronounces "circuit" as "cir-queet" ? ' others
+' Summer classes are no joke ',lack Of social engagement
+' Summer classes are no joke ' negative emotion
+' Summer classes are no joke ' sleep problems
+' Summer classes are no joke ' diversity issues
+' My kind of break up (when the semester ends) ',lack Of social engagement
+' This C code ain't gonna write itself. ' others
+' 2.75 lang ako sa Advanced Eng'g Math. Huhuhu. Sayang akala ko papalo ang grade ko ng 2.25 dun. Pero oks na rin yun. ' others
+' From this week's economist. Proud to be a nerd. ' heavy study load
+' From this week's economist. Proud to be a nerd. ' negative emotion
+' From this week's economist. Proud to be a nerd. ' sleep problems
+' Seriously I've been sitting in that seat for 3 weeks of lectures. Who do you think you are? https� ' heavy study load
+' Seriously I've been sitting in that seat for 3 weeks of lectures. Who do you think you are? https� ' negative emotion
+' Seriously I've been sitting in that seat for 3 weeks of lectures. Who do you think you are? https� ' sleep problems
+' Si algo se rompe, no hay nada que con cinta no se arregle ??? ' others
+' parang ayoko ng tignan ung result ng finals ko.. bka masaktan lng ako ? ' others
+' The fact that I'm grateful to start at 9am instead of the usually 8:30am one day. ' heavy study load
+' The fact that I'm grateful to start at 9am instead of the usually 8:30am one day. ' negative emotion
+' The fact that I'm grateful to start at 9am instead of the usually 8:30am one day. ' sleep problems
+' My kind of break up (when the semester ends) ',lack Of social engagement
+' Trying to CAD something without calipers is a basically a special form of torture ' others
+' How to attract and retain engineering professionals ' heavy study load
+' How to attract and retain engineering professionals ',lack Of social engagement
+' How to attract and retain engineering professionals ' negative emotion
+' How to attract and retain engineering professionals ' diversity issues
+' So I thought I had a test today in Heat Transfer...... turns out it's Thursday. ' heavy study load
+' So I thought I had a test today in Heat Transfer...... turns out it's Thursday. ',lack Of social engagement
+' So I thought I had a test today in Heat Transfer...... turns out it's Thursday. ' diversity issues
+' ' others
+' Winning the league after never seeing a game before the tourny h� ',lack Of social engagement
+' ' others
+' Yung GRADES sa engineering parang jingle ng bonakid ... 3 pataas XD... ' heavy study load
+' Yung GRADES sa engineering parang jingle ng bonakid ... 3 pataas XD... ',lack Of social engagement
+' Yung GRADES sa engineering parang jingle ng bonakid ... 3 pataas XD... ' negative emotion
+' Yung GRADES sa engineering parang jingle ng bonakid ... 3 pataas XD... ' diversity issues
+' ' others
+' Winning the league after never seeing a game before the tourny h� ',lack Of social engagement
+' Winning the league after never seeing a game before the tourny h� ',lack Of social engagement
+' Winning the league after never seeing a game before the tourny ',lack Of social engagement
+' I charge my calculator more often than I do my xbox controller ' sleep problems
+' I charge my calculator more often than I do my xbox controller ' diversity issues
+' Aun no hago este pinche examen y ya me esta poniendo de un humor ... Que ni yo me aguanto. ?? ' heavy study load
+' Aun no hago este pinche examen y ya me esta poniendo de un humor ... Que ni yo me aguanto. ?? ',lack Of social engagement
+' Aun no hago este pinche examen y ya me esta poniendo de un humor ... Que ni yo me aguanto. ?? ' negative emotion
+' Aun no hago este pinche examen y ya me esta poniendo de un humor ... Que ni yo me aguanto. ?? ' sleep problems
+' Math is hard ' negative emotion
+' The aftermath. ' others
+' The aftermath. ' others
+' Kung nag-BOM pala ko, edi sana graduate na ko kahapon. ?? ' others
+' When you burn yourself on a 400^C soldering iron at school.... ' heavy study load
+' Submit an enquiry form for our event. We can offer solutions to your � ' others
+' This exam timetable is rough... roll on the 20th of May though... ' heavy study load
+' This exam timetable is rough... roll on the 20th of May though... ',lack Of social engagement
+' This exam timetable is rough... roll on the 20th of May though... ' negative emotion
+' This exam timetable is rough... roll on the 20th of May though... ' sleep problems
+' ' others
+' When you're trying your best but nothing is going right.. ' others
+' When you're trying your best but nothing is going right.. ' others
+' Free-Fall- it hurts so much cause there is no one there to resist your fall and there is nothing to catch you! hahahhah ' others
+' sayang yung letter A perfect sana ehh ?????? ' others
+' ' others
+' ang importante pasado major subjects ko. ? Thank You Lord! ?? ' others
+' ? ' others
